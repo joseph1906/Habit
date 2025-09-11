@@ -1,21 +1,2 @@
-# Habit App
+Habit App
 
-**Habit App** is a mobile application built with [Expo](https://expo.dev) and React Native to help you track, manage, and build healthy habits. Stay productive and motivated by monitoring your daily routines and progress over time.
-
----
-
-## 🚀 Features
-- Create and manage daily habits  
-- Track progress visually over days and weeks  
-- Receive reminders for important tasks  
-- Cross-platform support (iOS, Android, Web)  
-
----
-
-## 💻 Getting Started
-
-Follow these steps to run the app locally:
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/joseph1906/Habit.git
