@@ -1,2 +1,2 @@
-#Habit App
+Habit App
 
